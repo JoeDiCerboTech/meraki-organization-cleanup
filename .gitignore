@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Local environment / secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# Reports and exports
+Meraki-Org-Cleanup-Reports/
+*.csv
+*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
